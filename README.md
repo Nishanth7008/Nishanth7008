@@ -1,20 +1,24 @@
-Hello, I am a Clinical Data Programmer with 3 years of experience in the Clinical Trial Industry. I hold a base SAS certification and have extensive knowledge of various programming tools such as R, SAS, and Power BI. I have a Doctorate in Pharmacy and my expertise is in working with Clinical Trial data.
+Hello, I am a Clinical Data Programmer with 3+ years of experience in the clinical trial industry, currently transitioning towards Clinical Data Science and advanced analytics.
 
-Skills
-SAS programming
-R programming
-Power BI
-Clinical Trial Industry knowledge
-Doctorate in Pharmacy
-Experience
-I have 3 years of experience working as a Clinical Data Programmer in the Clinical Trial Industry. My responsibilities include:
+I have strong expertise in working with clinical trial datasets, including adverse events, laboratory data, and patient demographics, with a focus on deriving meaningful insights beyond traditional programming.
 
-Creating SAS programs for data cleaning and analysis
-Working with R for data visualization and statistical analysis
-Utilizing Power BI for creating interactive dashboards and reports
-Collaborating with cross-functional teams to ensure data accuracy and completeness
-Certification
-Base SAS Certification
-Education
-Doctorate in Pharmacy
-I am highly motivated and committed to delivering high-quality work. Please feel free to reach out if you have any questions or if you are interested in working together.
+My core skill set includes SAS, R, Python (learning and applying), SQL, and Power BI. I actively work on data analysis, visualization, and building analytical solutions that support clinical decision-making.
+
+I hold a Doctorate in Pharmacy, which gives me a strong understanding of clinical concepts, drug safety, and trial design — enabling me to bridge the gap between data and real-world clinical impact.
+
+In my current role, I:
+• Develop SAS programs for data cleaning, transformation, and analysis
+• Perform exploratory data analysis and statistical summaries using R/Python
+• Build interactive dashboards using Power BI for stakeholder insights
+• Collaborate with cross-functional teams to ensure data quality and consistency
+• Work with clinical datasets to identify trends, risks, and patterns
+
+I am particularly interested in:
+• Clinical Data Science
+• Risk-Based Quality Management (RBQM)
+• Real-World Data (RWD) Analytics
+• Predictive Modeling in Clinical Trials
+
+I am continuously building projects in these areas and expanding my skill set in machine learning and advanced analytics.
+
+I am open to opportunities and collaborations where I can contribute to data-driven decision-making in clinical research.
