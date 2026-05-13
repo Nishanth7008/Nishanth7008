@@ -1,4 +1,4 @@
-Hello, I am a Clinical Data Programmer with 3+ years of experience in the clinical trial industry, currently transitioning towards Clinical Data Science and advanced analytics.
+Hello, I am a Clinical Data Programmer with 4+ years of experience in the clinical trial industry, currently transitioning towards Clinical Data Science and advanced analytics.
 
 I have strong expertise in working with clinical trial datasets, including adverse events, laboratory data, and patient demographics, with a focus on deriving meaningful insights beyond traditional programming.
 
